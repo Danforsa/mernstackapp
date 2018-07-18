@@ -8,7 +8,7 @@ Create a React application that:
 	▪	A Task List component
 
 	
-Allows  Sign in (with google gmail login with googles api) 
+Allows  Sign in (with google gmail login with google's api) 
  and the user to:
 		
 	▪       Add tasks
