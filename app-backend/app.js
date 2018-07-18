@@ -49,7 +49,7 @@ app.use(function(err, req, res, next) {
 //had to be used to allow your MongoDB database to be manipulated
 //using Mongoose.
 
-//const uri=' REMOVED for safety"
+//const uri=' mongodb://user:Password@test-shard-00-00-yhfbd.mongodb.net:27017,test-shard-00-01-yhfbd.mongodb.net:27017,test-shard-00-02-yhfbd.mongodb.net:27017/test?ssl=true&replicaSet=test-shard-0&authSource=admin';
 
 mongoose.Promise = global.Promise;
 
